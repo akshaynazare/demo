@@ -1,4 +1,4 @@
 # Demo
 This is my first repository on github
 <br>
-hello everyone(My name is akshay nazare)
+hello everyone(akshay nazare)
